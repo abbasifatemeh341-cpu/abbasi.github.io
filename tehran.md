@@ -1,1 +1,1 @@
-<img src="https://tse2.mm.bing.net/th/id/OIP.gPtGk9TpUqxE945nW6DUiwHaEX?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="دربند" style="border:2px solid red; width:250px;">
+<img src="https://tse2.mm.bing.net/th/id/OIP.gPtGk9TpUqxE945nW6DUiwHaEX?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="دربند" style="border:2px solid black; width:2500px;">

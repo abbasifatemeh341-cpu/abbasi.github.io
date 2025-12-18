@@ -4,9 +4,9 @@ title: my fav movies
 ---
 
 - eternal sunshine
-<img src="https://www.imdb.com/title/tt0338013/mediaviewer/rm2954530560/?ref_=tt_ov_i" alt="عکس" style="border:2px solid black; width:1500px;">
+<img src="https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/eternal-sunshine-of-the-spotless-mind-2004-1/EB20100102REVIEWS08100109999AR.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
 - dead poets society
-<img src="https://pics.filmaffinity.com/dead_poets_society-478487525-large.jpg" alt="عکس" style="border:2px solid red; width:250px;">
+<img src="https://pics.filmaffinity.com/dead_poets_society-478487525-large.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
 - life is beautiful
-<img src="https://www.rogerebert.com/wp-content/uploads/2024/03/Life-is-Beautiful.jpg" alt="عکس" style="border:2px solid red; width:250px;">
+<img src="https://www.rogerebert.com/wp-content/uploads/2024/03/Life-is-Beautiful.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
 # this is a header

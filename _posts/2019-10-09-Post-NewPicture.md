@@ -1,23 +1,30 @@
 ---
 layout: posts
-title: Test Post
+title: learning python
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+## steps for beginners
+- Set Up Your Environment
+- Learn the Basics
+- Practice with Interactive Tutorials
+- Work on Small Projects
+- Explore Libraries
+- Read and Write Code Daily
+- Dive into Advanced Topics
 
 
+[lessons](https://fccourse.liara.run/haltamrin)
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+
+
+
+
+![alt text](../assets/images/python.jpg "python")
 
 ---
-**Test**: This is atest
+**Test**: 
+- 1 Web Development
+- 2 Data Science & Analytics
+- 3 Artificial Intelligence & Machine Learnin
+- 4 Automation & Scripting
+- 5 Game Development
