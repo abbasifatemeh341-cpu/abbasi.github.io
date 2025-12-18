@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "fatemeh"
-  avatar           : "/assets/images/1.jpg"
+  name             : "fatemeh abbasi"
+  avatar           : "/assets/images/11.jpg"
   bio              : I'm a student.
   location         : "tehran"
   email            : abbasifatemeh341@gmail.com
-  twitter: sauleh_e
+  twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github:
+  instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

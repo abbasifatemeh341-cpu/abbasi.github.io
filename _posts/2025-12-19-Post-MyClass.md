@@ -8,5 +8,5 @@ title: my fav movies
 - dead poets society
 <img src="https://pics.filmaffinity.com/dead_poets_society-478487525-large.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
 - life is beautiful
-<img src="https://www.rogerebert.com/wp-content/uploads/2024/03/Life-is-Beautiful.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
+<img src="https://m.media-amazon.com/images/I/71tnBLMJcLL._AC_SY500_.jpg" alt="عکس" style="border:2px solid black; width:1000px;">
 # this is a header
