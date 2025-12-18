@@ -1,10 +1,10 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: my fav movies
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- eternal sunshine
+- the tortured poets department
+- life is beautiful
 
 # this is a header
