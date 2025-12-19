@@ -11,9 +11,9 @@ comments: false
 
 |           | **ترم 1**                    |
 |----|------|--------------------------------|
-|مبانی کامپیوتر AP|3|**<a href="/ad97/">python,turtle,C,...</a>**|
+|مبانی کامپیوتر AP|3|**<a href="https://teams.microsoft.com/l/team/19%3A1L2s8hisOcAiNxrDwJtm5GPjIudI8i_U3fKdAM_qAYA1%40thread.tacv2/conversations?groupId=f18e69c5-ef98-4715-97f8-f8ec0785f616&tenantId=924254cc-e204-496f-aa1e-ad4456df7fe0">python,turtle,C,...</a>**|
 |----|------|--------------------------------|
-|کارگاه کامپیوتر|1|**<a href="/ad97/">working with git ,...</a>**|
+|کارگاه کامپیوتر|1|**<a href="https://teams.microsoft.com/l/team/19%3A1L2s8hisOcAiNxrDwJtm5GPjIudI8i_U3fKdAM_qAYA1%40thread.tacv2/conversations?groupId=f18e69c5-ef98-4715-97f8-f8ec0785f616&tenantId=924254cc-e204-496f-aa1e-ad4456df7fe0">working with git ,...</a>**|
 |----|------|--------------------------------|
 |فیزیک 1|3 |**<a href="https://www.wiley.com/en-us/Fundamentals+of+Physics%2C+Extended%2C+12th+Edition-p-9781119773511">Halliday</a>**|
 |----|------|--------------------------------|
@@ -23,3 +23,8 @@ comments: false
 |----|------|--------------------------------|
 |زبان عمومی|3|**<a href="https://ajansbook.ir/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4%D8%AC%D9%88%DB%8C%D8%A7%D9%86-%D8%B1%D8%B4%D8%AA%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-English-for-the-students-of-engineering">English for the students of engineering</a>**|
 
+-------
+# study with me
+<iframe width="560" height="315" src="https://youtu.be/wB0F52RbIcc?si=sZfLZzSBLbb1gOnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+[course](https://www.belmont.edu/stories/articles/2025/how-to-balance-college-work-and-social-life.html)
