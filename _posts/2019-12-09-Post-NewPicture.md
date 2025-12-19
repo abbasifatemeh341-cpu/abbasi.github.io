@@ -34,6 +34,9 @@ title: learning python
 
 
 [my class in teams](https://teams.microsoft.com/l/team/19%3A1L2s8hisOcAiNxrDwJtm5GPjIudI8i_U3fKdAM_qAYA1%40thread.tacv2/conversations?groupId=f18e69c5-ef98-4715-97f8-f8ec0785f616&tenantId=924254cc-e204-496f-aa1e-ad4456df7fe0)
+
+
+-----
 [lessons](https://fccourse.liara.run/haltamrin)
 
 

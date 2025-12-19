@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite artist](https://www.tarafdari.com/node/2592546)
+* [Places I want to visit](https://www.tripadvisor.in/Attractions-g293998-Activities-Iran.html)
+* [My home city](https://iraniju.ir/%D8%AA%D9%87%D8%B1%D8%A7%D9%86/)
+* [IUST university](https://www.iust.ac.ir)
 

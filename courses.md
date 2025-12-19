@@ -25,6 +25,6 @@ comments: false
 
 -------
 # study with me
-<iframe width="560" height="315" src="https://youtu.be/wB0F52RbIcc?si=sZfLZzSBLbb1gOnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://youtu.be/wB0F52RbIcc?si=sZfLZzSBLbb1gOnx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>---
 
-[course](https://www.belmont.edu/stories/articles/2025/how-to-balance-college-work-and-social-life.html)
+[How to Balance College Work and Social Life](https://www.belmont.edu/stories/articles/2025/how-to-balance-college-work-and-social-life.html)
