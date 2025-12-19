@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /my professors/
-title: My professors at the university
+permalink: /my professors at the university/
+title: My professors
 tags: [my professors]
 modified: 4-10-2019
 comments: true

@@ -2,8 +2,8 @@
 main:
   - title: "Courses"
     url: /courses/
-  - title: "my professors at the university"
-    url: /my professors/
+  - title: "my professors"
+    url: /my professors at the university/
   - title: "Links"
     url: /links/
   - title: "HW"
