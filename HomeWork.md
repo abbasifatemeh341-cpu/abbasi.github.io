@@ -3,18 +3,18 @@ layout: single
 author_profile: true
 permalink: /HW/
 title: HW
-tags: [Hoby]
+tags: [HW]
 modified: 12-14-2025
 comments: false
 ---
 
 
-<a href="/assets/TA_S1(2).pdf" target="_blank">TA_S1</a>
+* <a href="https://pynative.com/python-basic-exercise-for-beginners/" target="_blank">Python Basic Exercise for Beginners</a>
 
-<a href="assets/TA_S2.pdf" target="_blank">TA_S2</a>
+* <a href="https://pynative.com/python-input-and-output-exercise/" target="_blank">Python Input and Output Exercise</a>
 
-<a href="assets/TA_S3(2).pdf" target="_blank">TA_s3</a>
+* <a href="https://pynative.com/python-functions-exercise-with-solutions/" target="_blank">Python Functions Exercise</a>
 
-<a href="assets/TA_S4.pdf" target="_blank">TA_S4</a>
+* <a href="https://pynative.com/python-list-exercise-with-solutions/" target="_blank">Python List Exercise with Solutions</a>
 
-<a href="C:\git\personal_website_template\assets\TA_S5.pdf" target="_blank">TA_S5</a>
+* <a href="https://pynative.com/python-dictionary-exercise-with-solutions/" target="_blank">Python Dictionary Exercise with Solutions</a>
